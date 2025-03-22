@@ -1,9 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm fullstack Developer Saiteja Sevella</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saitejasevella1914&label=Profile%20views&color=0e75b6&style=flat" alt="saitejasevella1914" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saitejasevella1914&theme=" alt="saitejasevella1914" /></a> </p>
-
 - 🌱 I’m currently learning **React.js Node.js Django**
 - 💬 Ask me about **Python, Html, Css ,JavaScript**
 - 📫 How to reach me **saisevella1914@gmail.com**
@@ -39,14 +35,5 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejasevella1914&langs_count=8&theme=gruvbox-duo" alt=saitejasevella1914 />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/saitejasevella1914">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=saitejasevella1914&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saitejasevella1914&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saitejasevella1914&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saitejasevella1914&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saitejasevella1914&theme=2077" height="180em" />
-</div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
